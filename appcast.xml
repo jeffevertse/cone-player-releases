@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Cone Player</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Mon, 26 Oct 2026 07:02:37 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Cone Player 0.2.0</h2>
+<ul>
+  <li><strong>In-app updates.</strong> Cone Player now checks for new versions once a day and asks before installing. You can also choose <em>Cone Player › Check for Updates…</em>, and turn automatic checks off in Settings › Interface › Updates.</li>
+  <li>The source code is now public on GitHub.</li>
+</ul>
+]]></description>
+            <enclosure url="https://jeffevertse.github.io/cone-player-releases/releases/ConePlayer-0.2.0.dmg" length="58133748" type="application/octet-stream" sparkle:edSignature="jOHn6rdJAexPvj67nssqkdhZf/Uob39TqUq0ICAISdRGLPJjHr4kdCmYydzdGMlnzNNYd4rk6UiAfKeV5eWIBg=="/>
+        </item>
+    </channel>
+</rss>
