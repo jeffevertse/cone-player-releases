@@ -3,8 +3,21 @@
     <channel>
         <title>Cone Player</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Wed, 28 Oct 2026 20:21:01 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Cone Player 0.2.2</h2>
+<ul>
+  <li><strong>Updates now have their own page in Settings.</strong> Open Settings › Updates to see your version, turn automatic checks on or off, and choose <em>Check for Updates…</em>.</li>
+</ul>
+]]></description>
+            <enclosure url="https://jeffevertse.github.io/cone-player-releases/releases/ConePlayer-0.2.2.dmg" length="58133716" type="application/octet-stream" sparkle:edSignature="D71+W+KqawPV9/xBC8+qBAJFB7kKVdaUS90TZZKpWT0EUrhcgNiBrYDvylDI4TLhWCf/dehBXWC71OAVWUTqAQ=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
-            <pubDate>Mon, 26 Oct 2026 07:13:52 +0100</pubDate>
+            <pubDate>Wed, 28 Oct 2026 20:21:00 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -18,7 +31,7 @@
         </item>
         <item>
             <title>0.2.0</title>
-            <pubDate>Mon, 26 Oct 2026 07:13:52 +0100</pubDate>
+            <pubDate>Wed, 28 Oct 2026 20:21:00 +0100</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
